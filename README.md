@@ -1,21 +1,34 @@
-### Hi there 👋
-
-<!--
-**marquesmaycon/marquesmaycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋, I'm Maycon Marques
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesmaycon&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmaycon&layout=compact&theme=transparent"/>
-</div>
+  <img src="https://raw.githubusercontent.com/gist/marquesmaycon/4b3f8446d40e64c8fe4ae65dc370214a/raw/d8140201b55344a5288882f94e0643d42031a558/githubcard.svg" height="600px" align="right">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marquesmaycon&count_private=true&show_icons=true&theme=transparent"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmaycon&layout=compact&theme=transparent"/>
+</div><br><br><br>
+
+
+
+
+## Tecnologias que uso no meu dia a dia:
+  <div>
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </div>  <br><br><br>
+  
+## No momento estou aprendendo: 
+<img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <br><br><br>
+
+## Entre em contato comigo: 
+  <a href="https://www.linkedin.com/in/mayconhenrique/" target="_blank">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://wa.me/5544991173753" target="_blank">
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" />
+  </a>
+  <a href="mailto:mayconmarquesh@gmail.com" target="_blank">
+    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" />
+  </a>
