@@ -18,7 +18,12 @@
   </div>  <br><br><br>
   
 ## No momento estou aprendendo: 
-  <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><br><br><br>
+  <div>
+    <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </div>
+
+  
 
 ## Entre em contato comigo: 
   <a href="https://www.linkedin.com/in/mayconhenrique/" target="_blank">
