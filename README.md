@@ -2,10 +2,8 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/gist/marquesmaycon/4b3f8446d40e64c8fe4ae65dc370214a/raw/d8140201b55344a5288882f94e0643d42031a558/githubcard.svg" height="600px" align="right">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=marquesmaycon&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmaycon&layout=compact&theme=transparent"/>
-</div><br><br><br>
-
+ 
+ <br><br><br>
 ## Tecnologias que uso no meu dia a dia:
   <div>
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
