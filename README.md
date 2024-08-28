@@ -1,28 +1,22 @@
-# Hello World👋, I'm Maycon Marques 
+# Maycon Marques
 
-## Tecnologias que uso no meu dia a dia:
-  <div>
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-    <img height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  </div>  <br><br><br>
-  
+👋 Olá mundo! Sou Maycon Marques, um desenvolvedor atualmente focado no desenvolvimento web.
 
-## Entre em contato comigo: 
-  <a href="https://www.linkedin.com/in/mayconhenrique/" target="_blank">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://wa.me/5544991173753" target="_blank">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" />
-  </a>
-  <a href="mailto:mayconmarquesh@gmail.com" target="_blank">
-    <img height="60" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" />
-  </a> <br><br><br>
+## 🧑‍💻 Sobre Mim
+- 🧑🏼‍💻 Estudo programação desde julho de 2022
+- 💼 Trabalho desde março de 2023 como desenvolvedor Júnior.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniCV em Maringá - PR.
+- 🐍 Iniciando no universo Python.
 
-  ###### That's all folks ;)
+- ## 🚀 Habilidades Técnicas
+- **Linguagens**: JavaScript, TypeScript, PHP
+- **Frontend**: React, Next.js
+- **Backend**: AdonisJS, Express
+- **Banco de Dados**: Postgres, MySQL, SQLite, MongoDB
+- **APIs**: Ampla experiência no desenvolvimento de APIs REST
+- **Ferramentas**: GIT, ORMs
+
+- ## 📫 Contato
+- **Email**: [mayconmarquesh@gmail.com](mailto:mayconmarquesh@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mayconhenrique](https://www.linkedin.com/in/mayconhenrique/)
+- **Telefone/WhatsApp**: +55 (44) 9 9117-3753
