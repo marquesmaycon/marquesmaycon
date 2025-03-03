@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre Mim
 - 🧑🏼‍💻 Estudo programação desde julho de 2022
-- 💼 Trabalho desde março de 2023 como desenvolvedor Júnior.
+- 💼 Trabalho desde março de 2023 como desenvolvedor.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniCV em Maringá - PR.
 - 🐍 Iniciando no universo Python.
 
