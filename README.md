@@ -1,6 +1,6 @@
 # Maycon Marques
 
-👋 Olá mundo! Meu nome é Maycon Marques, sou desenvolvedor web.
+👋 Olá mundo! Meu nome é Maycon Marques, sou desenvolvedor full stack.
 
 ## 🧑‍💻 Sobre Mim
 - 🧑🏼‍💻 No universo da programação desde julho de 2022
@@ -10,7 +10,7 @@
 - **Linguagens**: JavaScript, TypeScript, PHP
 - **Frontend**: React, Next.js
 - **Backend**: Node, AdonisJS, NestJS, Express
-- **Banco de Dados**: Postgres, MySQL, SQLite
+- **Banco de Dados**: Postgres, MySQL
 - **Ferramentas**: GIT, ORMs, TanStack
 
 - ## 📫 Contato
