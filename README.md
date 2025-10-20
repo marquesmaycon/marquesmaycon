@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre Mim
 - 🧑🏼‍💻 No universo da programação desde julho de 2022
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniCV em Maringá - PR.
+- 🎓 No último semestre de Análise e Desenvolvimento de Sistemas na UniCV em Maringá - PR.
 
 - ## 🚀 Habilidades Técnicas
 - **Linguagens**: JavaScript, TypeScript, PHP
